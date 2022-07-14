@@ -1,0 +1,4 @@
+../Core/Src/LIS3DSH.c:16:9:LIS3DSH_HAL_ReadReg8	16	static
+../Core/Src/LIS3DSH.c:34:10:LIS3DSH_HAL_ReadReg16	16	static
+../Core/Src/LIS3DSH.c:56:9:LIS3DSH_HAL_WriteReg8	16	static
+../Core/Src/LIS3DSH.c:75:9:LIS3DSH_HAL_ReadTemp	8	static
