@@ -1,0 +1,2 @@
+../Core/Src/mpu9250src.c:43:6:setupr	24	static
+../Core/Src/mpu9250src.c:87:6:readr	24	static
